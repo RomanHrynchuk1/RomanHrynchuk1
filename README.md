@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning everything I can do.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : contact via email.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Full of himself.
 
 <!---
 RomanHrynchuk1/RomanHrynchuk1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
