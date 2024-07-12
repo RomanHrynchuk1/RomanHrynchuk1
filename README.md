@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RomanHrynchuk
-- 👀 I’m interested in programming development.
-- 🌱 I’m currently learning everything I can do.
+- 👋 Hi, I’m Roman Hrynchuk
+- 👀 I’m interested in programming development. (AI, LLM, NLP, Chatbot, Data Scraping, Web development)
+- 🌱 I’m currently working and learning everything I can do.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : contact via email.
 - 😄 Pronouns: He/him
